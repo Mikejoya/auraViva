@@ -1,0 +1,382 @@
+[
+    {
+        "id": "AV001",
+        "name": "Esencia",
+        "slug": "esencia-aretes-nakar",
+        "description": "Aretes Nakar con un diseño especial que aporta personalidad, elegancia y un toque distintivo a tu estilo.",
+        "price": 32000,
+        "categoryId": "CAT001",
+        "subcategory": "Aretes Nakar",
+        "images": [
+            {
+                "id": "IMG001",
+                "url": "https://placehold.co/800x1000/F3E8E4/735C53?text=Esencia",
+                "alt": "Aretes Esencia Nakar"
+            }
+        ],
+        "featured": true,
+        "active": true,
+        "stock": 10,
+        "createdAt": "2026-11-20"
+    },
+    {
+        "id": "AV002",
+        "name": "Destello",
+        "slug": "destello-aretes-dorados",
+        "description": "Aretes dorados de diseño delicado que aportan luminosidad y elegancia a cualquier look.",
+        "price": 28000,
+        "categoryId": "CAT001",
+        "subcategory": "Aretes Dorados",
+        "images": [
+            {
+                "id": "IMG002",
+                "url": "https://placehold.co/800x1000/F5E9D5/80643D?text=Destello",
+                "alt": "Aretes Destello dorados"
+            }
+        ],
+        "featured": true,
+        "active": true,
+        "stock": 8,
+        "createdAt": "2026-11-21"
+    },
+    {
+        "id": "AV003",
+        "name": "Brilla",
+        "slug": "brilla-aretes-dorados-grandes",
+        "description": "Aretes dorados grandes que destacan por su presencia y aportan un toque sofisticado y llamativo.",
+        "price": 35000,
+        "categoryId": "CAT001",
+        "subcategory": "Aretes Dorados Grandes",
+        "images": [
+            {
+                "id": "IMG003",
+                "url": "https://placehold.co/800x1000/EFE1D2/795B43?text=Brilla",
+                "alt": "Aretes Brilla dorados grandes"
+            }
+        ],
+        "featured": true,
+        "active": true,
+        "stock": 6,
+        "createdAt": "2026-11-22"
+    },
+    {
+        "id": "AV004",
+        "name": "Florecer",
+        "slug": "florecer-collar-dijes-flores",
+        "description": "Collar con dijes de flores inspirado en la delicadeza y belleza de los pequeños detalles.",
+        "price": 42000,
+        "categoryId": "CAT002",
+        "subcategory": "Collares con Dijes",
+        "images": [
+            {
+                "id": "IMG004",
+                "url": "https://placehold.co/800x1000/F4E8E8/87666B?text=Florecer",
+                "alt": "Collar Florecer con dijes de flores"
+            }
+        ],
+        "featured": true,
+        "active": true,
+        "stock": 5,
+        "createdAt": "2026-11-23"
+    },
+    {
+        "id": "AV005",
+        "name": "Aurora",
+        "slug": "aurora-aretes-minimalistas",
+        "description": "Aretes minimalistas con acabado delicado, ideales para complementar tus looks diarios.",
+        "price": 25000,
+        "categoryId": "CAT001",
+        "subcategory": "Aretes Minimalistas",
+        "images": [
+            {
+                "id": "IMG005",
+                "url": "https://placehold.co/800x1000/F2E8DF/806B5C?text=Aurora",
+                "alt": "Aretes Aurora"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "stock": 12,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV006",
+        "name": "Encanto",
+        "slug": "encanto-aretes-perlas",
+        "description": "Aretes con detalles de perlas que transmiten delicadeza y elegancia atemporal.",
+        "price": 30000,
+        "categoryId": "CAT001",
+        "subcategory": "Aretes con Perlas",
+        "images": [
+            {
+                "id": "IMG006",
+                "url": "https://placehold.co/800x1000/F4EEE5/877A6B?text=Encanto",
+                "alt": "Aretes Encanto con perlas"
+            }
+        ],
+        "featured": true,
+        "active": true,
+        "stock": 9,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV007",
+        "name": "Magnolia",
+        "slug": "magnolia-aretes-florales",
+        "description": "Aretes inspirados en las flores, perfectos para quienes aman los detalles románticos.",
+        "price": 33000,
+        "categoryId": "CAT001",
+        "subcategory": "Aretes Florales",
+        "images": [
+            {
+                "id": "IMG007",
+                "url": "https://placehold.co/800x1000/F3E5E7/926C78?text=Magnolia",
+                "alt": "Aretes Magnolia florales"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "stock": 7,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV008",
+        "name": "Luna",
+        "slug": "luna-collar-dije-luna",
+        "description": "Collar con dije de luna y acabado delicado, ideal para darle un toque especial a tu estilo.",
+        "price": 38000,
+        "categoryId": "CAT002",
+        "subcategory": "Collares con Dijes",
+        "images": [
+            {
+                "id": "IMG008",
+                "url": "https://placehold.co/800x1000/EAE8F1/716A89?text=Luna",
+                "alt": "Collar Luna"
+            }
+        ],
+        "featured": true,
+        "active": true,
+        "stock": 8,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV009",
+        "name": "Armonía",
+        "slug": "armonia-collar-capas",
+        "description": "Collar de varias capas que combina texturas y aporta sofisticación a cualquier conjunto.",
+        "price": 45000,
+        "categoryId": "CAT002",
+        "subcategory": "Collares en Capas",
+        "images": [
+            {
+                "id": "IMG009",
+                "url": "https://placehold.co/800x1000/EEE4D8/806C59?text=Armonia",
+                "alt": "Collar Armonía"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "stock": 5,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV010",
+        "name": "Renacer",
+        "slug": "renacer-collar-elegante",
+        "description": "Collar de estilo elegante con detalles modernos para acompañarte en ocasiones especiales.",
+        "price": 39000,
+        "categoryId": "CAT002",
+        "subcategory": "Collares Elegantes",
+        "images": [
+            {
+                "id": "IMG010",
+                "url": "https://placehold.co/800x1000/EDE5DC/826B56?text=Renacer",
+                "alt": "Collar Renacer"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "stock": 6,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV011",
+        "name": "Flor de Abril",
+        "slug": "flor-de-abril-collar-floral",
+        "description": "Collar con inspiración floral, diseñado para resaltar la feminidad y delicadeza.",
+        "price": 41000,
+        "categoryId": "CAT002",
+        "subcategory": "Collares Florales",
+        "images": [
+            {
+                "id": "IMG011",
+                "url": "https://placehold.co/800x1000/F4E7E4/916E68?text=Flor+de+Abril",
+                "alt": "Collar Flor de Abril"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "stock": 7,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV012",
+        "name": "Celeste",
+        "slug": "celeste-conjunto-joyeria",
+        "description": "Conjunto de aretes y collar con diseño delicado para crear una combinación armoniosa.",
+        "price": 65000,
+        "categoryId": "CAT003",
+        "subcategory": "Aretes y Collar",
+        "images": [
+            {
+                "id": "IMG012",
+                "url": "https://placehold.co/800x1000/E8EDF3/697D95?text=Celeste",
+                "alt": "Conjunto Celeste de aretes y collar"
+            }
+        ],
+        "featured": true,
+        "active": true,
+        "stock": 4,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV013",
+        "name": "Divina",
+        "slug": "divina-conjunto-dorado",
+        "description": "Conjunto de joyería dorada con piezas coordinadas para destacar en ocasiones especiales.",
+        "price": 72000,
+        "categoryId": "CAT003",
+        "subcategory": "Conjuntos Dorados",
+        "images": [
+            {
+                "id": "IMG013",
+                "url": "https://placehold.co/800x1000/F3E8D5/94754B?text=Divina",
+                "alt": "Conjunto Divina dorado"
+            }
+        ],
+        "featured": true,
+        "active": true,
+        "stock": 3,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV014",
+        "name": "Eterna",
+        "slug": "eterna-conjunto-perlas",
+        "description": "Conjunto de aretes y collar con detalles de perlas para un estilo clásico y sofisticado.",
+        "price": 68000,
+        "categoryId": "CAT003",
+        "subcategory": "Conjuntos con Perlas",
+        "images": [
+            {
+                "id": "IMG014",
+                "url": "https://placehold.co/800x1000/F1EBE2/918273?text=Eterna",
+                "alt": "Conjunto Eterna con perlas"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "stock": 5,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV015",
+        "name": "Alma",
+        "slug": "alma-blusa-elegante",
+        "description": "Blusa femenina de estilo versátil, perfecta para combinar con prendas casuales o elegantes.",
+        "price": 79000,
+        "categoryId": "CAT004",
+        "subcategory": "Blusas",
+        "images": [
+            {
+                "id": "IMG015",
+                "url": "https://placehold.co/800x1000/EDE5DF/8C7566?text=Alma",
+                "alt": "Blusa Alma"
+            }
+        ],
+        "featured": true,
+        "active": true,
+        "stock": 6,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV016",
+        "name": "Serena",
+        "slug": "serena-vestido-casual",
+        "description": "Vestido femenino de estilo delicado y cómodo para disfrutar cualquier ocasión.",
+        "price": 115000,
+        "categoryId": "CAT004",
+        "subcategory": "Vestidos",
+        "images": [
+            {
+                "id": "IMG016",
+                "url": "https://placehold.co/800x1000/E8E5DF/817969?text=Serena",
+                "alt": "Vestido Serena"
+            }
+        ],
+        "featured": true,
+        "active": true,
+        "stock": 4,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV017",
+        "name": "Esplendor",
+        "slug": "esplendor-conjunto-femenino",
+        "description": "Conjunto femenino de dos piezas pensado para conseguir un look moderno y sofisticado.",
+        "price": 145000,
+        "categoryId": "CAT004",
+        "subcategory": "Conjuntos de Ropa",
+        "images": [
+            {
+                "id": "IMG017",
+                "url": "https://placehold.co/800x1000/F0E4DD/92766A?text=Esplendor",
+                "alt": "Conjunto de ropa Esplendor"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "stock": 3,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV018",
+        "name": "Aura",
+        "slug": "aura-pulsera-delicada",
+        "description": "Pulsera delicada con detalles elegantes para complementar tus accesorios favoritos.",
+        "price": 27000,
+        "categoryId": "CAT005",
+        "subcategory": "Pulseras",
+        "images": [
+            {
+                "id": "IMG018",
+                "url": "https://placehold.co/800x1000/F0E7DD/89735F?text=Aura",
+                "alt": "Pulsera Aura"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "stock": 10,
+        "createdAt": "2026-11-24"
+    },
+    {
+        "id": "AV019",
+        "name": "Dulce Encanto",
+        "slug": "dulce-encanto-regalo-especial",
+        "description": "Detalle especial compuesto por accesorios seleccionados para sorprender a alguien importante.",
+        "price": 55000,
+        "categoryId": "CAT006",
+        "subcategory": "Detalles Especiales",
+        "images": [
+            {
+                "id": "IMG019",
+                "url": "https://placehold.co/800x1000/F2E4E6/8D6872?text=Dulce+Encanto",
+                "alt": "Regalo Dulce Encanto"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "stock": 5,
+        "createdAt": "2026-11-24"
+    }
+]

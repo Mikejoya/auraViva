@@ -1,0 +1,32 @@
+:root {
+    /* Brand colors */
+    --color-wine: #541E2B;
+    --color-ivory: #F2E8D9;
+    --color-champagne: #B18A62;
+    --color-green: #172E27;
+    --color-black: #24211F;
+
+    /* Typography */
+    --font-logo: "Allura", cursive;
+    --font-heading: "Cormorant Garamond", serif;
+    --font-body: "Montserrat", sans-serif;
+}
+
+/* General typography */
+body {
+    font-family: var(--font-body);
+    color: var(--color-black);
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4 {
+    font-family: var(--font-heading);
+}
+
+/* Brand logo */
+.brand-logo {
+    font-family: var(--font-logo);
+}

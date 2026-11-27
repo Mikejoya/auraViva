@@ -1,0 +1,11 @@
+.font-allura {
+  font-family: var(--font-logo);
+}
+
+.font-cormorant {
+  font-family: var(--font-heading);
+}
+
+.font-montserrat {
+  font-family: var(--font-body);
+}

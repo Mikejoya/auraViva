@@ -1,0 +1,44 @@
+[
+    {
+        "id": "CAT001",
+        "name": "Aretes",
+        "slug": "aretes",
+        "description": "Diseños que iluminan y complementan tu estilo",
+        "active": true
+    },
+    {
+        "id": "CAT002",
+        "name": "Collares",
+        "slug": "collares",
+        "description": "Detalles que realzan tu look en cada ocasión",
+        "active": true
+    },
+    {
+        "id": "CAT003",
+        "name": "Conjuntos de Joyería",
+        "slug": "conjuntos-joyeria",
+        "description": "Combinaciones perfectas de accesorios para destacar",
+        "active": true
+    },
+    {
+        "id": "CAT004",
+        "name": "Ropa",
+        "slug": "ropa",
+        "description": "Prendas versátiles para expresar tu personalidad",
+        "active": true
+    },
+    {
+        "id": "CAT005",
+        "name": "Accesorios",
+        "slug": "accesorios",
+        "description": "Complementos ideales para darle un toque especial a tu outfit",
+        "active": true
+    },
+    {
+        "id": "CAT006",
+        "name": "Regalos",
+        "slug": "regalos",
+        "description": "Detalles especiales para sorprender y compartir",
+        "active": true
+    }
+]
